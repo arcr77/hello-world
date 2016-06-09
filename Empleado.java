@@ -6,7 +6,7 @@ public class empleado {
 	private String tipoEmpleado;
 	private double ventasMes;
 	private int horasExtra;
-	//constructores
+	//constructores de la clase
 	public Empleado(){
 	this.nombreEmpleado="desconocido";
 	this.tipoEmpleado="VENDEDOR";
